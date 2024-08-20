@@ -146,3 +146,5 @@ data/
 cifar-10-batches-py/
 lightning_logs/*
 lightning_logs/
+*.zip
+Images/
